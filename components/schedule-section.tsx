@@ -44,7 +44,7 @@ const scheduleItems = [
   },
   {
     time: "12:30 PM - 1:00 PM",
-    title: "Increasing Liquidity through RFQs and AMMs",
+    title: "Enhancing Liquidity through RFQs and AMMs",
     panelists: [
       "Nicolas Baum, Senior Engineer at 0xProject",
       "Nikita Ovchinnik, CEO at Barter",
