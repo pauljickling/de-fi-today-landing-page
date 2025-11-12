@@ -77,6 +77,11 @@ const speakers = [
     image: "/speakers/kenneth_ng.jpg",
   },
   {
+    name: "Danning Sui",
+    title: "Research Director, Pantera Capital",
+    image: "/speakers/danning_sui.jpg",
+  },
+  {
     name: "Oskar Thorén",
     title: "Lead Institutional Privacy Task Force, Ethereum Foundation",
     image: "speakers/oskar-thoren.jpg",

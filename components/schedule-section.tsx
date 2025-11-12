@@ -50,6 +50,7 @@ const scheduleItems = [
       "Nikita Ovchinnik, CEO at Barter",
       "Kenneth Ng, Co-Founder of Uniswap Foundation",
     ],
+    moderator: "Danning Sui, Research Director at Pantera Capital",
     type: "panel",
     session: "Panel",
   },
