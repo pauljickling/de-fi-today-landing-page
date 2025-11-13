@@ -27,7 +27,7 @@ const faqs = [
     answer: (
       <>
         Register{" "}
-        <a href="https://devconnect.org/calendar?event=defi-today" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">
+        <a href="https://luma.com/lklh3u0v" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline font-medium">
           here
         </a>{" "}
         to get your ticket! Tickets are free of charge but{" "}
