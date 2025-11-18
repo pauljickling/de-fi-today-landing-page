@@ -52,6 +52,11 @@ const speakers = [
     image: "/speakers/rahul-goyal.jpeg",
   },
   {
+    name: "Marcin Kazmiercza",
+    title: "Co-Founder, RedStone and Credora",
+    image: "/speakers/marcin.jpeg",
+  },
+  {
     name: "Benjamin S.P.",
     title: "Founder, Cap",
     image: "/speakers/Benjamin_s_p.jpg",
