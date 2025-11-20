@@ -62,11 +62,6 @@ const speakers = [
     image: "/speakers/Benjamin_s_p.jpg",
   },
   {
-    name: "Sam MacPherson",
-    title: "Co-Founder and CEO, Phoenix Labs",
-    image: "/speakers/sam_macpherson.jpg",
-  },
-  {
     name: "Nicolas Baum",
     title: "Senior Engineer, 0xProject",
     image: "/speakers/nicolas_baum.jpg",

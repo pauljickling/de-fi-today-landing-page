@@ -15,7 +15,6 @@ const scheduleItems = [
     panelists: [
       "Haonan Li, Co-Founder and CEO at Codex",
       "Benjamin S.P. Founder of Cap",
-      "Sam MacPherson, Co-Founder and CEO at Phoenix Labs",
     ],
     moderator: "Ash Morgan, Enterprise Acceleration at Ethereum Foundation",
     type: "panel",
